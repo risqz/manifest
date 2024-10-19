@@ -71,7 +71,7 @@
   <project path="packages/providers/MediaProvider" name="RisingOS-legacy/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" revision="thirteen" />
 
   <!-- Services -->  
-  <project path="packages/services/OmniJaws" name="RisingOS-legacy/packages_services_OmniJaws" revision="thirteen" />
+  <project path="packages/services/OmniJaws" name="RisingOS-legacy/android_packages_services_OmniJaws" revision="thirteen" />
   <project path="packages/services/Telecomm" name="RisingOS-legacy/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" revision="thirteen"/>
   <project path="packages/services/Telephony" name="RisingTechOSS/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" revision="thirteen"/>
 
